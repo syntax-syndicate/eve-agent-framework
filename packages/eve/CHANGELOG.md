@@ -1,5 +1,11 @@
 # eve
 
+## 0.12.1
+
+### Patch Changes
+
+- f68ecbe: Set the Vercel framework preset when creating new Eve projects.
+
 ## 0.12.0
 
 ### Minor Changes
